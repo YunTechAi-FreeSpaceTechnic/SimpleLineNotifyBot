@@ -4,8 +4,8 @@
 ---
 ### 快速設定指南 (Windows)
 ##### 一、下載必要檔案
-1. 從 [Release 頁面](https://github.com/YunTechAi-FreeSpaceTechnicSimpleLineNotifyBot/releases) 下載並解壓縮。
-2. 下載 ngrok https://bin.equinox.io/c/bNyj1mQVY4cngrok-v3-stable-windows-amd64.zip
+1. 從 [Release 頁面](https://github.com/YunTechAi-FreeSpaceTechnic/SimpleLineNotifyBot/releases) 下載並解壓縮。
+2. 下載 ngrok https://ngrok.com/downloads/windows?tab=download
     解壓後將 `ngrok.exe` 放入與 `main.exe` 同一資料夾。
 3. 開啟 `config.yml`，依以下說明完成設定。
 
