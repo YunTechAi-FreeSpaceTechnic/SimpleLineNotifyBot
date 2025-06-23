@@ -1,0 +1,16 @@
+log:
+  maxlen: 1000
+  format: "[%(asctime)s] %(message)s"
+  level: INFO
+  show_at_run: true
+
+server:
+  line_access_token: "LINE_ACCESS_TOKEN"
+  line_channel_secret: "LINE_CHANNEL_SECRET"
+  ngrok_token: "NGROK_TOKEN"
+  ngrok_domain: "NGROK_DOMAIN"
+  port: 50033
+
+multicast_users:
+  - "USER_ID_1"
+  - "USER_ID_2"

@@ -1,0 +1,26 @@
+config.yml
+history
+ngrok.exe
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.python-version
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.spec
+
+# IDE files
+.vscode/
+.idea/
+

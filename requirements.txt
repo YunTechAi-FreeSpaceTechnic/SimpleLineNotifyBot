@@ -1,0 +1,5 @@
+Flask==3.1.0
+line-bot-sdk==3.16.3
+PyQt5==5.15.11
+pyngrok==7.2.8
+pyinstaller==6.13.0
